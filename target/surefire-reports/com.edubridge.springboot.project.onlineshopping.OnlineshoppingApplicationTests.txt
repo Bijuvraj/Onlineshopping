@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.edubridge.springboot.project.onlineshopping.OnlineshoppingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.705 s - in com.edubridge.springboot.project.onlineshopping.OnlineshoppingApplicationTests
